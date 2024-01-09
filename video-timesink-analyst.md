@@ -17,3 +17,11 @@ Ask if I want more info about a given numbered heading, if they respond with a n
 ```
 Check this video: https://www.youtube.com/watch?v=4kl3s6U6554, does it seem to be mostly on topic or does it meander.
 ```
+
+## get a terse thou shalt summary:
+
+```
+Summarise the following, as if they were rules, not recommendations or opinions:
+
+TEXT or URL
+```
